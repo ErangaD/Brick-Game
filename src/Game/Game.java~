@@ -1,6 +1,5 @@
 package Game;
 
-//Include a line
 
 
 import java.awt.Canvas;
