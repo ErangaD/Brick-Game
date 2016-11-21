@@ -4,7 +4,7 @@ package Game;
 
 public abstract class GameEntity {
     protected int x;
-    protected int y;
+    protected int  y;
     
     protected int w;
     protected int h;
